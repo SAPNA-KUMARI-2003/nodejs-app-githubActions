@@ -9,6 +9,8 @@ node_modules/
 .env
 dist/
 build/
+deploy.yml
+
 
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
